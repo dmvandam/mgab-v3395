@@ -10,4 +10,4 @@ Asymmetric eclipses could be the result of tilted and inclined circumstellar dis
 This repository takes a look at the data and explores what kind of orbits are possible to produce these eclipses.
 
 
-![](lightcurves/phased_lightcurve.png)
+![](phased_lightcurve.png)
