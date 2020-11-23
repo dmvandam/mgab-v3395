@@ -8,3 +8,6 @@ Data has been collected by ASAS-SN, ZTF, HOYS and several amateurs (Sjoerd Dufoe
 Asymmetric eclipses could be the result of tilted and inclined circumstellar disks, which, due to projection effects, produce an elliptical occulter.
 
 This repository takes a look at the data and explores what kind of orbits are possible to produce these eclipses.
+
+
+![](lightcurves/phased_lightcurve.png)
